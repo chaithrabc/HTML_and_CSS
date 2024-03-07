@@ -1,4 +1,4 @@
-PART A
+# PART A
 
 The website page includes:
 
@@ -17,7 +17,7 @@ The website is built using basic HTML elements and CSS Styling.
 
 
 
-PART B
+# PART B
 
 Website Design Overview:
 
